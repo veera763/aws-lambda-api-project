@@ -1,0 +1,8 @@
+[
+    {
+        "source": "/<*>",
+        "target": "https://aws.amazon.com/pt/architecture/well-architected/",
+        "status": "301",
+        "condition": null
+    }
+]
