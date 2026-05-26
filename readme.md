@@ -1,4 +1,4 @@
-# AWS Serverless BlueCar Application
+# AWS Serverless Application
 
 Serverless AWS project using:
 
